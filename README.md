@@ -1,4 +1,4 @@
-# Evaluación de especies arbóreas de Mesoamérica
+# Evaluación de las especies arbóreas de Mesoamérica
 
 Este repositorio contiene los resultados de la evaluación de las especies arbóreas de Mesoamérica realizada en 2019 en el contexto de la Evaluación Mundial de Árboles o _Global Tree Assessment_ (GTA, https://globaltreeassessment.org/), una iniciativa cuyo objetivo es determinar, para el año 2020, el estado de conservación de todas las especies de árboles conocidas.
 
