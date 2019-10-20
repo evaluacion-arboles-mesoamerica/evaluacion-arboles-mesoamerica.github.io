@@ -4,4 +4,4 @@ Este repositorio contiene los resultados de la evaluación de las especies arbó
 
 Se presentan los resultados obtenidos por orden alfabético de las especies:
 
-[Abarema_racemiflora - Axinaea_costaricensis]()
+[Abarema_racemiflora - Axinaea_costaricensis](https://evaluacion-arboles-mesoamerica.github.io/Abarema_racemiflora-Axinaea_costaricensis.html)
