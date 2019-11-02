@@ -4,8 +4,8 @@ Este repositorio contiene los resultados de la evaluación de las especies arbó
 
 La evaluación se realizó mediante la aplicación de [categorías y criterios](https://www.iucn.org/es/content/categor%C3%ADas-y-criterios-de-la-lista-roja-de-la-uicn-versi%C3%B3n-31-segunda-edici%C3%B3n) de la [Lista Roja de la Unión Internacional para la Conservación de la Naturaleza (UICN)](https://www.iucnredlist.org/es/).
 
-Se presentan los resultados obtenidos, por orden alfabético de los nombres de las especies:
+Los siguientes son los resultados obtenidos:
 
-[Abarema_racemiflora - Axinaea_costaricensis](https://evaluacion-arboles-mesoamerica.github.io/Abarema_racemiflora-Axinaea_costaricensis-evaluacion.html)
+[Abarema_racemiflora - Axinaea_costaricensis. 2019-10-23](https://evaluacion-arboles-mesoamerica.github.io/Abarema_racemiflora-Axinaea_costaricensis-evaluacion.html)
 
-[Abutilon_purpusii - Zygia_rubiginosa-20191101](https://evaluacion-arboles-mesoamerica.github.io/Abutilon_purpusii-Zygia_rubiginosa-20191101-evaluacion.html)
+[Abutilon_purpusii - Zygia_rubiginosa. 2019-11-01](https://evaluacion-arboles-mesoamerica.github.io/Abutilon_purpusii-Zygia_rubiginosa-20191101-evaluacion.html)
