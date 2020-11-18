@@ -6,7 +6,7 @@ La evaluación se realizó mediante la aplicación de [categorías y criterios](
 
 Los siguientes son los resultados obtenidos:
 
-[Agonandra macrocarpa - Zanthoxylum panamense. 2020-11-14](https://evaluacion-arboles-mesoamerica.github.io/Agonandra_macrocarpa-Zanthoxylum_panamense-20201114-evaluacion.html)
+[Agonandra macrocarpa - Zanthoxylum panamense. 2020-11-17](https://evaluacion-arboles-mesoamerica.github.io/Agonandra_macrocarpa-Zanthoxylum_panamense-20201117-evaluacion.html)
 
 [Abutilon purpusii - Zygia rubiginosa. 2019-11-03](https://evaluacion-arboles-mesoamerica.github.io/Abutilon_purpusii-Zygia_rubiginosa-20191103-evaluacion.html)
 
